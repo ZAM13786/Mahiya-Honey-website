@@ -61,4 +61,4 @@ Features
 This project is for educational and personal commercial use. You can customize and deploy freely. Attribution to the original template author (if it was adapted from a template) is recommended.
 
 👤 Author
-Developed and used the website github page of Victrf as reference by Zam
+Zam in this website i used the website github page of Victrf as reference. 
